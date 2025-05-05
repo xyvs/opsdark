@@ -1059,9 +1059,14 @@ p.min_padding {
 .head strong {
     font-weight: 400
 }
+
+#user table.recent:nth-of-type(3) tr:nth-of-type(2) td {
+    padding-bottom:0 !important;
+}
+
 .body {
     line-height: 1.5em;
-    padding: 3px 10px 10px
+    padding: 15px 10px 10px
 }
 .sidebar .body {
     padding: 3px 3px 10px 0
