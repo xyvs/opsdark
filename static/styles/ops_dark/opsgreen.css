@@ -613,8 +613,7 @@ body {
     min-width: 950px;
     overflow-wrap: break-word;
     position: relative;
-    background-color: #1a1c1d;
-    background-image: url(..//assets/backgrounds/background.jpg)
+    background-color: #1b1e20;
 }
 @media only screen and (max-width: 789px) {
     body {
@@ -1924,7 +1923,7 @@ ul#userinfo_username:hover li#nav_userinfo a {
 #searchbars {
     border-bottom: 0;
     border-radius: 5px;
-    margin: 2px auto 0;
+    margin: 15px auto 0;
     position: relative;
     text-align: center
 }
